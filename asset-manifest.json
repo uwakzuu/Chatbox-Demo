@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/uwakzuu/Chatbox-Demo.git/static/css/main.9ebbc809.css",
+    "main.js": "/uwakzuu/Chatbox-Demo.git/static/js/main.3e8146f6.js",
+    "static/media/profile-2.png": "/uwakzuu/Chatbox-Demo.git/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/uwakzuu/Chatbox-Demo.git/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/uwakzuu/Chatbox-Demo.git/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/uwakzuu/Chatbox-Demo.git/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/uwakzuu/Chatbox-Demo.git/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/uwakzuu/Chatbox-Demo.git/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/uwakzuu/Chatbox-Demo.git/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/uwakzuu/Chatbox-Demo.git/index.html",
+    "main.9ebbc809.css.map": "/uwakzuu/Chatbox-Demo.git/static/css/main.9ebbc809.css.map",
+    "main.3e8146f6.js.map": "/uwakzuu/Chatbox-Demo.git/static/js/main.3e8146f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ebbc809.css",
+    "static/js/main.3e8146f6.js"
+  ]
+}
