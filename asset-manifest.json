@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chatbox-Demo/static/css/main.9ebbc809.css",
-    "main.js": "/Chatbox-Demo/static/js/main.e39019f2.js",
+    "main.js": "/Chatbox-Demo/static/js/main.833f9eeb.js",
     "static/media/profile-2.png": "/Chatbox-Demo/static/media/profile-2.4752a9db34458eeffcfa.png",
     "static/media/doctor-picture.png": "/Chatbox-Demo/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
     "static/media/profile-1.png": "/Chatbox-Demo/static/media/profile-1.0261bb4efe7a9075c56a.png",
@@ -11,10 +11,10 @@
     "static/media/profile-4.png": "/Chatbox-Demo/static/media/profile-4.3c44185ab9c84614038f.png",
     "index.html": "/Chatbox-Demo/index.html",
     "main.9ebbc809.css.map": "/Chatbox-Demo/static/css/main.9ebbc809.css.map",
-    "main.e39019f2.js.map": "/Chatbox-Demo/static/js/main.e39019f2.js.map"
+    "main.833f9eeb.js.map": "/Chatbox-Demo/static/js/main.833f9eeb.js.map"
   },
   "entrypoints": [
     "static/css/main.9ebbc809.css",
-    "static/js/main.e39019f2.js"
+    "static/js/main.833f9eeb.js"
   ]
 }
